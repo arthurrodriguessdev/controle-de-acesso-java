@@ -7,7 +7,7 @@ Este projeto simula um sistema simples de controle de acesso via senha numérica
 - A senha correta é: **2025**
 - O programa permite até **3 tentativas**
 - Exibe mensagens de erro ou sucesso conforme o caso
-- 
+  
 ## Tecnologias
 
 - Linguagem: Java
